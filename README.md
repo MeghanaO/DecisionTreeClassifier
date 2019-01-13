@@ -11,3 +11,6 @@ DecisionTree_MinLeafSamples_3.ipynb :
 DecisionTree_MinLeafSamples_8.ipynb :
   The difference of this program with the above is that, here the input features are assigned values ranging from 0 to 4 based on their interval using numpy package qcut method
   This changes the dataset and also the performance
+  
+ DecisionTree_KFold.ipynb :
+  KFold testing is performed on a dataset using different available in built python methods like GridSearchCV, StratifiedKFold,           RandomizedSearchCV
